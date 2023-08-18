@@ -1,6 +1,7 @@
 # Event Ticket Search App
 
-https://youtu.be/_jiXbs9d8MQ
+[![Watch the video](https://img.youtube.com/vi/_jiXbs9d8MQ/0.jpg)](https://youtu.be/_jiXbs9d8MQ)
+
 
 ## Features:
 
